@@ -7,6 +7,18 @@
 <p align="center">💬 Talk to me about <strong>Our Struggle Against Capitalism</strong> 💬</p>
 <p align="center">⚡ Fun fact: Employers have described me as a <em>once in a blue moon</em> talent in software development ⚡</p>
 
+<h2 align="center">Talk to me</h2>
+<p align="center">Wanna pay me to do work? Think I'm cool and wanna hang? Despise me and wanna hurl insults? Maybe not that last one...</p>
+<p align="center">
+	&nbsp;
+	<a href="https://reddit.com/u/Squidgical/">
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" /></a>
+	&nbsp;
+	<a href="https://discord.com/users/773137363395674133">
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" /></a>
+	&nbsp;
+</p>
+
 <h2 align="center">What do I know?</h2>
 <p align="center">Here are some of the things I know and my opinions on them.</p>
 
