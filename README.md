@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋🏻, I'm Squidgical</h1>
 <h3 align="center">My friends call me Squidge</h3>
 <p align="center">⚙️ <em>Don't let the bastards grind you down!</em> ⚙️</p>
-<p align="center">🏳️‍⚧️🏳️‍🌈 ally 🏳️‍🌈🏳️‍⚧️</p>
 <p align="center">🔭 Hiking the path to freedom 🔭</p>
-<p align="center">🌱 Currently learning <strong>Tauri</strong>, <strong>Animation</strong>, and <strong>Guitar</strong> 🌱</p>
+<p align="center">🌱 Currently learning <strong>Kotlin</strong>, <strong>Rust</strong>, and <strong>Guitar</strong> 🌱</p>
 <p align="center">💬 Talk to me about <strong>Our Struggle Against Capitalism</strong> 💬</p>
-<p align="center">⚡ Fun fact: Employers have described me as a <em>once in a blue moon</em> talent in software development ⚡</p>
+<p align="center">⚡ Fun fact: A previous employer described me as a <em>once in a blue moon</em> talent in software development ⚡</p>
 
 <h2 align="center">Talk to me</h2>
 <p align="center">Wanna pay me to do work? Think I'm cool and wanna hang? Despise me and wanna hurl insults? Maybe not that last one...</p>
@@ -23,20 +22,24 @@
 <p align="center">Here are some of the things I know and my opinions on them.</p>
 
 <h3 align="center">Love</h3>
-<p align="center">I love working with these technologies</p>
+<p align="center">
+	I love working with these technologies
+</p>
 <div align="center">
 	<img
-		src="https://skillicons.dev/icons?i=svelte,ts,tauri"
-		alt="Svelte, TypeScript, Tauri"
+		src="https://skillicons.dev/icons?i=svelte,ts,deno"
+		alt="Svelte, TypeScript, Deno"
 	/>
 </div>
 
 <h3 align="center">Like</h3>
-<p align="center">I like these, but they don't get me hyped</p>
+<p align="center">
+	I like these, but they don't get me hyped.
+</p>
 <div align="center">
 	<img
-		src="https://skillicons.dev/icons?i=js,vite,git"
-		alt="JavaScript, Vite, Git"
+		src="https://skillicons.dev/icons?i=js,vite,vue"
+		alt="JavaScript, Vite, Vue"
 	/>
 </div>
 <div align="center">
@@ -47,32 +50,37 @@
 </div>
 
 <h3 align="center">Exists</h3>
-<p align="center">I know these but I don't really care about them all that much</p>
+<p align="center">
+	I know these but I don't really care about them all that much.
+</p>
 <div align="center">
 	<img
-		src="https://skillicons.dev/icons?i=bash,npm,yarn,gradle"
-		alt="Bash, NPM, Yarn, Gradle"
+		src="https://skillicons.dev/icons?i=bash,npm,yarn"
+		alt="Bash, NPM, Yarn"
 	/>
 </div>
 <div align="center">
 	<img
-		src="https://skillicons.dev/icons?i=deno,bun,nodejs,nix"
-		alt="Deno, Bun, Node.js, NixOS"
+		src="https://skillicons.dev/icons?i=bun,nodejs,nix,react"
+		alt="Bun, Node.js, React"
 	/>
 </div>
 
 <h3 align="center">Hate</h3>
-<p align="center">I will quit on the spot if an employer tells me to use these</p>
+<p align="center">
+	I will quit on the spot if an employer tells me to use these. Okay I wont, but saying I
+	will feels good.
+</p>
 <div align="center">
 	<img
-		src="https://skillicons.dev/icons?i=windows,eclipse,py,jquery,wordpress"
-		alt="Windows, Eclipse, Python, jQuery, WordPress"
+		src="https://skillicons.dev/icons?i=windows,eclipse,py,jquery"
+		alt="Windows, Eclipse, Python, jQuery"
 	/>
 </div>
 <div align="center">
 	<img
-		src="https://skillicons.dev/icons?i=apple,idea,java,react,php"
-		alt="Apple, IntelliJ IDEA, Java, React, PHP"
+		src="https://skillicons.dev/icons?i=apple,java,php,wordpress"
+		alt="Apple, Java, PHP, WordPress"
 	/>
 </div>
 
